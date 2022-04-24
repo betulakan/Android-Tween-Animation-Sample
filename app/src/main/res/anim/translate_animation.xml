@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Translate animation creates vertical and horizontal motion
+        It made the image look like it was gliding across the screen-->
+
+    <translate
+        android:fromXDelta="-70%"
+        android:toXDelta="70%"
+        android:fromYDelta="-70%"
+        android:toYDelta="70%"
+        android:duration="800"
+        android:repeatCount="infinite"
+        />
+
+
+
+</set>
